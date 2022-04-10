@@ -10,5 +10,3 @@ main() {
         fibonacci();
         sorting();
 }
-
-#developer 2 is working on this machine
